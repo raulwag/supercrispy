@@ -1,0 +1,25 @@
+<root>
+    <name>ClickSign Integration</name>
+    <key>clicksign</key>
+    <state>stable</state>
+    <description>
+        <short>
+            <en>Integration with ClickSign for ticket management</en>
+            <pt_BR>Integração com ClickSign para gestão de chamados</pt_BR>
+        </short>
+        <long>
+            <en>This plugin adds a tab to tickets allowing users to send ticket information to ClickSign via n8n webhook</en>
+            <pt_BR>Este plugin adiciona uma aba aos chamados permitindo que usuários enviem informações do chamado para o ClickSign via webhook do n8n</pt_BR>
+        </long>
+    </description>
+    <authors>
+        <author>Seu Nome</author>
+    </authors>
+    <versions>
+        <version>
+            <num>1.0.0</num>
+            <compatibility>11.0</compatibility>
+        </version>
+    </versions>
+    <license>MIT</license>
+</root>
